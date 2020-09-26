@@ -1,0 +1,16 @@
+#!/bin/sh 
+
+URxvt.geometry: 	78x24
+URxvt.buffered:		 true
+URxvt.background:	 black
+URxvt.foreground:	 gray
+URxvt.cursorColor:	 green
+URxvt.underlineColor: 	 red
+URxvt.font:		 xft:Terminus:pixelsize=18:antialias=false
+URxvt.boldFont:          xft:Terminus:bold:pixelsize=18:antialias=false
+URxvt.title:             urxvt-x
+URxvt.cursorBlink:	 true
+URxvt.cursorUnderline:   false
+URxvt.saveline: 	 5000
+URxvt.scrollBar: 	 false
+URxvt.scrollBar_right:   false
